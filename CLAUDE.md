@@ -1,5 +1,11 @@
 # CLAUDE.md — stable-news
 
+## Current Status (2026-04-07)
+- CEO Review: APPROVED
+- Eng Review: APPROVED (블로커 0)
+- GitHub: README, TODOS, CLAUDE.md, migrations, .env.example 완료
+- 다음 단계: Day 0 소스 오딧 → /ship (Phase 1)
+
 ## Project Overview
 스테이블코인 전문 뉴스 인텔리전스 서비스.
 파이프라인: RSS/스크래핑 → Claude API → Supabase → 이메일/웹/SMS
